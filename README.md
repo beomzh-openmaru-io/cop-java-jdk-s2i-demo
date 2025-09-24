@@ -1,0 +1,1 @@
+# cop-java-jdk-s2i-demo
